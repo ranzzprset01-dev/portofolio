@@ -62,8 +62,8 @@ st.page_link("home.py", label="Kembali ke beranda", use_container_width=True)
 col1, col2, col3 = st.columns([0.8, 1.5, 1])
 
 with col1:
-    st.image("pages/TIKTOK.webp", width=150)
-    st.image("pages/INSTAGRAM.webp", width=150)
+    st.image("PORTOFOLIO/pages/TIKTOK.webp", width=150)
+    st.image("PORTOFOLIO/pages/INSTAGRAM.webp", width=150)
 
 with col2:
     st.write("=====================================")
