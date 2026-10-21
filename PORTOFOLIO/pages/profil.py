@@ -46,7 +46,7 @@ def pasang_background(cyberpunk_image_path):
         unsafe_allow_html=True
     )
 
-pasang_background("pages/cyberpunk.webp")
+pasang_background("PORTOFOLIO/pages/cyberpunk.webp")
 
 st.markdown(
     """
