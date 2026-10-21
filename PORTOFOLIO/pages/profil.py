@@ -69,7 +69,7 @@ col1, col2 = st.columns([1, 2])
 
 with col1:
     # Memasukkan foto ke kolom kiri
-    st.image("pages/Proyek Baru 140.jpg", width="stretch")
+    st.image("PORTOFOLIO/pages/Proyek Baru 140.jpg", width="stretch")
 
 with col2:
     st.markdown("### **BIODATA MAHASISWA**")
